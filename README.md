@@ -1,6 +1,6 @@
 ## About me
 
-- 🌱 **Learning:** Springboot & Angular
+- 🌱 **Learning:** C# & SQL Server
 - 💬 **Ask me about:** Animations, games & basketball
 - 👀 **Looking for:** Love... but a backend internship would be nice! =D
 - 😄 **Pronouns:** He/Him
